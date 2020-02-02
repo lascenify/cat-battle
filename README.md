@@ -10,7 +10,9 @@ Each command the user gives to the player takes one second to be executed.
 
 # Build instructions
 Clone or download the repository
+```
 git clone https://github.com/lascenify/cat-battle.git
+```
 
 
 # The game
